@@ -1,0 +1,14 @@
+C:\Users\Simone\Documents\estudos_Evy\dotnet_projetos\estacionamento_evy\bin\Debug\net8.0\estacionamento_evy.exe
+C:\Users\Simone\Documents\estudos_Evy\dotnet_projetos\estacionamento_evy\bin\Debug\net8.0\estacionamento_evy.deps.json
+C:\Users\Simone\Documents\estudos_Evy\dotnet_projetos\estacionamento_evy\bin\Debug\net8.0\estacionamento_evy.runtimeconfig.json
+C:\Users\Simone\Documents\estudos_Evy\dotnet_projetos\estacionamento_evy\bin\Debug\net8.0\estacionamento_evy.dll
+C:\Users\Simone\Documents\estudos_Evy\dotnet_projetos\estacionamento_evy\bin\Debug\net8.0\estacionamento_evy.pdb
+C:\Users\Simone\Documents\estudos_Evy\dotnet_projetos\estacionamento_evy\obj\Debug\net8.0\estacionamento_evy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simone\Documents\estudos_Evy\dotnet_projetos\estacionamento_evy\obj\Debug\net8.0\estacionamento_evy.AssemblyInfoInputs.cache
+C:\Users\Simone\Documents\estudos_Evy\dotnet_projetos\estacionamento_evy\obj\Debug\net8.0\estacionamento_evy.AssemblyInfo.cs
+C:\Users\Simone\Documents\estudos_Evy\dotnet_projetos\estacionamento_evy\obj\Debug\net8.0\estacionamento_evy.csproj.CoreCompileInputs.cache
+C:\Users\Simone\Documents\estudos_Evy\dotnet_projetos\estacionamento_evy\obj\Debug\net8.0\estacionamento_evy.dll
+C:\Users\Simone\Documents\estudos_Evy\dotnet_projetos\estacionamento_evy\obj\Debug\net8.0\refint\estacionamento_evy.dll
+C:\Users\Simone\Documents\estudos_Evy\dotnet_projetos\estacionamento_evy\obj\Debug\net8.0\estacionamento_evy.pdb
+C:\Users\Simone\Documents\estudos_Evy\dotnet_projetos\estacionamento_evy\obj\Debug\net8.0\estacionamento_evy.genruntimeconfig.cache
+C:\Users\Simone\Documents\estudos_Evy\dotnet_projetos\estacionamento_evy\obj\Debug\net8.0\ref\estacionamento_evy.dll
